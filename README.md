@@ -1,5 +1,4 @@
-# Telephone-Directory-Cpp-Program
-C++ Program to Manage Telephone Directory
+# C++ Project for Managing Telephone Directory
 
 #### Features:>
 1. Add New Record
