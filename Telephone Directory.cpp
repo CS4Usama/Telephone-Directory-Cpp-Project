@@ -42,7 +42,7 @@ class PhoneBook
 
 int main()
 {
-	system("color A");
+	system("color A");	//for Green colored output
 
 	fstream file("PhoneBook.dat", ios::in | ios::out | ios::ate | ios::app | ios::binary);
 	char nm[30], telno[20];
