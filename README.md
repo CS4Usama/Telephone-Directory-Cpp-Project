@@ -1,6 +1,6 @@
 # C++ Project for Managing Telephone Directory
 
-#### Features:>
+### Features:>
 1. Add New Record
 2. Display All Records
 3. Search Telephone Number
